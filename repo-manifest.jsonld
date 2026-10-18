@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/saghul/aiodns/commit/ff43a83ea57e195e56af73b9bafe6a9dbc2d6e18",
       "git:hexsha": "ff43a83ea57e195e56af73b9bafe6a9dbc2d6e18",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/saghul/aiodns/commit/0e1d7c0779e1bb6675ba918da68dad529c457085",
